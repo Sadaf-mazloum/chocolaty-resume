@@ -1,0 +1,261 @@
+body{
+    margin: 0;
+}
+.img-top{
+    width: 1900px;
+    height: 700px;
+    margin-bottom: 0;
+
+}
+.top{
+    background-color: bisque;
+    position: relative;
+    height: 1200px;
+}
+.links{
+    background-color: rgb(48, 27, 7);
+    font-size: 20px;
+    border-radius: 6px;
+    text-decoration: none;
+} 
+#indexdounat1{
+    width: 220px;
+    position: relative;
+    left: 1500px;
+    bottom: 200px;
+}
+ #sadaft{
+    position: absolute;
+    bottom: 500px;
+    right: 650px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    color: chocolate;
+    font-size: 100px;
+
+} 
+#p1{
+    margin-left: 720px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    color: chocolate;
+    font-size: 50px;
+    position: relative;
+    bottom: 370px;
+}
+ul{
+    width: 200px;
+    margin-left: 2px;
+    position: relative;
+    bottom: 700px;
+}
+li a{
+
+    padding: 25px 50px;
+    display: block;
+    margin-bottom: 25px;
+    position: relative;
+    margin-left: 0;
+}
+.cake{
+    position: relative;
+    bottom: 797px;
+    left: 350px;
+}
+.middle{
+    background-color: rgba(255, 228, 196, 0.308);
+    height: 300px;
+}
+.gif{
+    width: 200px;
+    position: relative;
+    left: 650px;
+
+}
+.pmid{
+    color: chocolate;
+    font-size: 65px;
+    position: absolute;
+    left: 880px;
+    top: 1185px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
+.p1mid{
+
+
+    color: chocolate;
+    font-size: 30px;
+    position: absolute;
+    left: 620px;
+    top: 1320px;
+    font-family: 'Homemade Apple', cursive;
+font-family: 'Meddon', cursive;
+font-family: 'Open Sans', sans-serif;}
+ .mid-down{
+    background-color: rgba(121, 80, 31, 0.308);
+    height: 350px;
+    position: relative;
+    bottom: 20px;
+}
+ .h3{
+    position: absolute;
+    left: 800px;
+    color: rgb(199, 112, 50);
+    font-size: 45px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+ }
+.h2{
+    position: absolute;
+    bottom: 170px;
+    left:750px ;
+    color: rgb(199, 112, 51);
+    font-size: 35px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+}
+.choci{
+    width: 180px;
+    position: absolute;
+    left: 420px;
+    bottom: 60px;
+    
+}
+.pmiddo{
+    color: chocolate;
+    font-size: 30px;
+    position: absolute;
+    left: 720px;
+    bottom: 10px;
+    font-family: 'Homemade Apple', cursive;
+font-family: 'Meddon', cursive;
+font-family: 'Open Sans', sans-serif;}
+.pic2{
+    width: 180px;
+    position: absolute;
+    left:1400px;
+    top: 90px;
+}
+.down1{
+    background-color: rgba(255, 228, 196, 0.308);
+    height: 400px;
+    position: relative;
+    bottom: 17px;
+}
+.img3{
+    width: 350px;
+    position: absolute;
+    left: 725px;
+    top: 80px;
+}
+h4{
+    color: chocolate;
+    font-size: 45px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 650px;
+    top: -20px;
+}
+.pdown1{
+    color: chocolate;
+    font-size: 30px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 690px;
+    top: 210px;
+}
+.down2{
+
+    background-color: rgba(121, 80, 31, 0.308);
+    height: 500px;
+    position: relative;
+    bottom: 20px;
+}
+h5{
+    color: chocolate;
+    font-size: 45px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 790px;
+}
+h6{
+    color: chocolate;
+    font-size: 40px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 550px;
+    top: 60px;
+}
+.pdown2{
+    color: chocolate;
+    font-size: 30px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 500px;
+    top: 190px;
+
+}
+.img4{
+    width: 40px;
+    position: absolute;
+    left: 50px;
+    bottom: 15px;
+    
+}
+.alink{
+    background-color: chocolate;
+    padding: 20px 300px;
+    position: absolute;
+    left: 550px;
+    bottom: 60px;
+    font-size: 25px;
+    border-radius: 17px;
+}
+.down{
+    background-color: rgba(255, 228, 196, 0.308);
+    height: 350px;
+    position: relative;
+    bottom: 20px;
+}
+.moj-down{
+    width: 1900px;
+    height: 350px;
+    margin-top:  0;
+}
+.linksi{
+    color: chocolate;
+    display: inline;
+    position:relative;
+    margin-right: 40px;
+    left: 750px;
+    top: 150px;
+    text-decoration: none;
+    font-size: 25px;
+    
+}
+.linksi:link{
+    color: chocolate;
+}
+.linksi:hover{
+    color: red;}
+.pdowni{
+    font-size: 10px;
+    color: white;
+    position: absolute;
+    left: 850px;
+    top: 330px;
+}

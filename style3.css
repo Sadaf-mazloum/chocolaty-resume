@@ -1,0 +1,155 @@
+.photo-form{
+     width: 1000px;
+     height: 965px;
+     margin: 0;
+}
+body{
+    margin: 0;
+    background-color: bisque;
+}
+.h2-1{
+    position: absolute;
+    left: 130px;
+    bottom: 700px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: antiquewhite;
+}
+.p-1{
+    position: absolute;
+    left: 130px;
+    bottom: 670px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+}
+.photo-1{
+    position: absolute;
+    left: 80px;
+    bottom: 700px;
+    width: 35px;
+}
+.h2-2{
+    position: absolute;
+    left: 130px;
+    bottom: 600px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: antiquewhite;
+}
+.p-2{
+    position: absolute;
+    left: 130px;
+    bottom: 570px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+}
+.photo-2{
+    position: absolute;
+    left: 80px;
+    bottom: 600px;
+    width: 35px;
+}
+.h2-3{
+    position: absolute;
+    left: 130px;
+    bottom: 500px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    color: antiquewhite;
+}
+.p-3{
+    position: absolute;
+    left: 130px;
+    bottom: 470px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: antiquewhite;
+}
+.photo-3{
+    position: absolute;
+    left: 80px;
+    bottom: 500px;
+    width: 35px;
+}
+.form-page{
+    position: absolute;
+    left: 1100px;
+    bottom: 100px;
+    width: 500px;
+
+}
+h1{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 45px;
+    position: absolute;
+    left: 1250px;
+}
+.org{
+    background-color: bisque ;
+}
+input{
+    border: none;
+    padding: 15px 15px;
+    border-radius: 15px;
+
+    
+}
+.p-form{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    margin-bottom: 10px;
+
+}
+.submit{
+    
+    margin-left: 50px;
+    margin-top: 20px;
+    padding: 25px 35px;
+    background-color: chocolate;
+    position: absolute;
+    left: 400px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: white;
+}
+table{
+    border: 2px solid white;
+    padding: 10px 50px;
+    border-radius: 25px;
+    margin-top: 5px;
+}
+.photo-heart{
+            width: 150px;
+            position: absolute;
+            left: 1580px;
+            bottom: 200px;
+}

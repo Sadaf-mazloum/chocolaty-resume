@@ -1,0 +1,343 @@
+body{
+    margin: 0;
+}
+.div-left{
+    background-color: rgba(255, 228, 196, 0.795);
+    width: 335px;
+    height: 1490px;
+    margin-left: 0;
+}
+.sadafimg{
+    width: 200px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+}
+.titlep{
+      font-family: 'Homemade Apple', cursive;
+      font-family: 'Lato', sans-serif;
+      font-family: 'Meddon', cursive;
+      font-family: 'Open Sans', sans-serif;
+      font-size: 35px;
+      position: relative;
+      left: 25px;
+}
+.titlep2{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    position: relative;
+    left: 27px;
+}
+.normalp{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    position: relative;
+    left: 30px;
+}
+hr{
+    width: 245px;
+    height: 3px;
+    background-color: chocolate;
+    border-color: chocolate;
+    border-radius: 4px;
+}
+a{
+    color:chocolate ;
+    text-decoration: none;
+}
+h1{
+      font-family: 'Homemade Apple', cursive;
+      font-family: 'Lato', sans-serif;
+      font-family: 'Meddon', cursive;
+      font-family: 'Open Sans', sans-serif;
+      position: absolute;
+      bottom: 800px;
+      left: 400px;
+      color: black;
+      font-size: 60px;
+}
+#p2{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    bottom: 760px;
+    left: 400px;
+    font-size: 30px;
+    color: black;
+}
+#hr2{
+    width: 1145px;
+    height: 3px;
+    background-color: chocolate;
+    border-color: chocolate;
+    border-radius: 4px;
+    position: absolute;
+    bottom: 760px;
+    left: 400px;
+   
+}
+.h2top{
+    position: absolute;
+    left: 400px;
+    bottom: 650px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+.ptopnu1{
+    position: absolute;
+    left: 401px;
+    bottom: 600px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+
+}
+.ptop1{
+    position: absolute;
+    left: 600px;
+    bottom: 560px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.ptopnu2{
+    position: absolute;
+    left: 401px;
+    bottom: 500px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+
+}
+.ptop2{
+    position: absolute;
+    left: 600px;
+    bottom: 400px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.ptopnu3{
+    position: absolute;
+    left: 401px;
+    bottom: 340px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+
+}
+.ptop3{
+    position: absolute;
+    left: 600px;
+    bottom: 240px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.vertical-hr{
+            background-color: chocolate;
+             border-color: chocolate;
+             width: 1px;
+             height: 430px;
+             position: absolute;
+             left: 550px;
+             bottom: 280px;
+}
+.hr-2{
+    position: absolute;
+    left: 420px;
+    bottom: 220px;
+    width: 1145px;
+}
+.h2mid{
+    position: absolute;
+    left: 400px;
+    bottom: 150px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+.pmidnu1{
+    position: absolute;
+    left: 401px;
+    bottom: 110px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.pmid1{
+    position: absolute;
+    left: 610px;
+    bottom: 50px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.pmidnu2{
+    position: absolute;
+    left: 401px;
+    bottom: 10px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.pmid2{
+    position: absolute;
+    left: 601px;
+    bottom: -95px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.pmidnu3{
+    position: absolute;
+    left: 401px;
+    bottom: -135px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.pmid3{
+    position: absolute;
+    left: 601px;
+    bottom: -235px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+}
+.hr-mid{
+    background-color: chocolate;
+    border-color: chocolate;
+    width: 1px;
+    height: 400px;
+    position: absolute;
+    left: 570px;
+    bottom: -230px;
+}
+.hr-mid2{
+    position: absolute;
+    left: 440px;
+    bottom: -270px;
+    width: 1145px;
+
+}
+.h2-down{
+    position: absolute;
+    bottom: -350px;
+    position: absolute;
+    left: 400px;
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+.photo1{
+    width: 130px;
+    position: absolute;
+    bottom: -470px;
+    position: absolute;
+    left: 440px;
+}
+.photo2{
+    width: 130px;
+    position: absolute;
+    bottom: -450px;
+    position: absolute;
+    left: 730px;
+}
+.photo3{
+    width: 100px;
+    position: absolute;
+    bottom: -460px;
+    position: absolute;
+    left: 1050px;
+}
+.photo4{
+    width: 130px;
+    position: absolute;
+    bottom: -470px;
+    position: absolute;
+    left: 1350px;
+}
+.pdow1{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    bottom: -520px;
+    position: absolute;
+    left: 470px;
+}
+.pdow2{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    bottom: -520px;
+    position: absolute;
+    left: 755px;
+}
+.pdow3{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    bottom: -520px;
+    position: absolute;
+    left: 1060px;
+}
+.pdow4{
+    font-family: 'Homemade Apple', cursive;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Meddon', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    position: absolute;
+    bottom: -520px;
+    position: absolute;
+    left: 1380px;
+}
